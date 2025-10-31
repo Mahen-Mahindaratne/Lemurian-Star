@@ -51,24 +51,6 @@ For enhanced deployment and execution, we recommend compiling these scripts usin
 - Set appropriate execution level (user/admin)
 - Add digital signatures if available
 
-## Output Structure
-
-All scripts create a `SHIELD` directory in the execution location with organized subdirectories:
-
-SHIELD/
-├── Drives/
-│ ├── A/
-│ ├── C/
-│ └── D/
-├── Public/
-│ ├── Root/
-│ └── [Subfolders]/
-├── Shared/
-│ ├── Shared/
-│ └── Common/
-└── [Username]/
-└── Documents/
-
 ## Technical Features
 
 - **Error Handling**: Automatic abortion on destination drive full
