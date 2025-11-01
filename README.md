@@ -8,6 +8,9 @@
 
 > **Legal Notice: You are prohibited from executing these programs on any device or account without explicit authorization. Unauthorized data access constitutes a criminal offense punishable by law in all civilized jurisdictions. Provided for educational and entertainment purposes only, you assume all liability for any legal consequences arising from the misuse of this material.**
 
+**Lemurian Star | An Advanced Batch Script Project**: 
+[![Lemurian Star | An Advanced Batch Script Project](https://img.youtube.com/vi/NJcJIu27Re0/0.jpg)](https://www.youtube.com/watch?v=NJcJIu27Re0)
+
 ### **INTENDED USE CASES**
 - Legitimate forensic analysis
 - Authorized data migration
